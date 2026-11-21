@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 700">
+<defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6DE9B"/><stop offset=".5" stop-color="#D4AF37"/><stop offset="1" stop-color="#9C7318"/></linearGradient>
+<linearGradient id="rose" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4CBD0"/><stop offset="1" stop-color="#B76E79"/></linearGradient>
+<linearGradient id="maroon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A63055"/><stop offset="1" stop-color="#5C122B"/></linearGradient>
+</defs>
+<!-- groom -->
+<g transform="translate(96 60)">
+<ellipse cx="0" cy="44" rx="40" ry="49" fill="#E9B98F"/>
+<path d="M-42 42q2-52 42-52t42 52q-10-18-42-18T-42 42" fill="#4A2133"/>
+<path d="M-44 26q44-30 88 0l-6-22q-38-20-76 0z" fill="url(#maroon)"/>
+<circle cx="0" cy="14" r="7" fill="url(#gold)"/>
+<path d="M-62 108q62-34 124 0l30 330H-92z" fill="url(#maroon)"/>
+<path d="M-62 108q62-34 124 0l-8 26q-54-26-108 0z" fill="url(#gold)"/>
+<path d="M-30 118h60v320h-60z" fill="#F7E7C8" opacity=".92"/>
+<path d="M-92 438h184l-8 60H-84z" fill="#F7E7C8"/>
+</g>
+<!-- bride -->
+<g transform="translate(268 58)">
+<path d="M-46 44q0-52 46-52t46 52v40H-46z" fill="#B76E79" opacity=".35"/>
+<ellipse cx="0" cy="44" rx="39" ry="48" fill="#E9B98F"/>
+<path d="M-42 40q2-50 42-50t42 50q-10-20-42-20T-42 40" fill="#3A1A2E"/>
+<path d="M-48 30q48-32 96 0l-10-22H-38z" fill="url(#rose)"/>
+<circle cx="0" cy="10" r="6" fill="url(#gold)"/>
+<path d="M-70 110q70-38 140 0l46 336H-116z" fill="url(#rose)"/>
+<path d="M-70 110q70-38 140 0l-10 28q-60-28-120 0z" fill="url(#gold)"/>
+<path d="M-46 122h92v318h-92z" fill="#FAF5EE" opacity=".82"/>
+<path d="M-116 446h232l-10 52H-106z" fill="#FAF5EE"/>
+</g>
+<!-- joined hands -->
+<path d="M150 360q48-16 100 0" fill="none" stroke="#E9B98F" stroke-width="18" stroke-linecap="round"/>
+<circle cx="200" cy="360" r="13" fill="none" stroke="url(#gold)" stroke-width="7"/>
+<circle cx="200" cy="360" r="4" fill="#F6DE9B"/>
+</svg>

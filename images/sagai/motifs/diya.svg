@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300"><defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6DE9B"/><stop offset=".5" stop-color="#D4AF37"/><stop offset="1" stop-color="#9C7318"/></linearGradient>
+<linearGradient id="rose" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F4CBD0"/><stop offset="1" stop-color="#B76E79"/></linearGradient>
+<linearGradient id="maroon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A63055"/><stop offset="1" stop-color="#5C122B"/></linearGradient>
+</defs>
+<path d="M62 166q88 74 176 0l-20 54q-68 34-136 0z" fill="url(#gold)"/>
+<path d="M80 166q70 44 140 0" fill="none" stroke="#F6DE9B" stroke-width="5"/>
+<path d="M150 166q-30-40 0-84 30 44 0 84" fill="#F39A2D"/>
+<path d="M150 152q-14-24 0-50 14 26 0 50" fill="#FFE08A"/>
+<path d="M28 206q122 76 244 0" fill="none" stroke="#E8A33D" stroke-width="9" stroke-dasharray="14 10"/>
+<circle cx="70" cy="188" r="11" fill="#F6DE9B"/><circle cx="230" cy="188" r="11" fill="#F6DE9B"/>
+</svg>
